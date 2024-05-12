@@ -3,8 +3,11 @@
 For this project, you need to create a database, which is named: advasco_test_datenbank
 
 You need also a table, which is named: users with following entities:
+
 id - primary key
+
 name - varchar utf8 unicode ci
+
 image - varchar utf8 unicode ci
 
 
